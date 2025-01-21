@@ -50,4 +50,7 @@ This project not only fulfills the requirements of your CodSoft task but also se
 
 I am incredibly grateful to CodSoft for providing me with the opportunity to work on web development tasks during my internship. This experience has been a significant milestone in my journey as an aspiring web developer, offering me the chance to apply my technical knowledge to real-world projects, enhance my skills, and grow both personally and professionally.
 
+#output
+
+![Image](https://github.com/user-attachments/assets/20cfbf53-41ab-44af-ba92-748da961d23d)
 
